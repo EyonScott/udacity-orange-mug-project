@@ -1,0 +1,33 @@
+.image {
+	margin: 10px;
+}
+.row {
+	float: left;
+}
+.col-md-5 {
+	float: right;
+	margin: 10px;
+}
+.main-1 {
+	float: left;
+	clear: right;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+.text-left {
+	color: #ff7f50;
+	font-family: 'Maven Pro', sans-serif;
+}
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: #696969;
+}
+
+p {
+	font-family: 'Nobile', sans-serif;
+	color: #696969
+}
